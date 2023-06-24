@@ -1,0 +1,43 @@
+body{
+    background: linear-gradient( #fff);
+}
+.text{
+    font-size: 18px;
+    line-height: 22px;
+    padding-top: 40px;
+    color: #444;
+    max-width: 900px;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+h1{
+    color:black;
+}
+
+p{
+  color: #444; 
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.type1{
+    width: 100%;
+    display: block;
+    margin: 0 auto;
+}
+.type2{
+    width: 100%;
+    display: block;
+    margin: 0 auto;
+}
+
+h2{
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+video{
+    list-style: none;
+}
